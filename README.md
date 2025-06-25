@@ -22,6 +22,10 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" alt="fastapi" width="40" height="40"/>
+  </a>
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
