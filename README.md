@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/logo/flask" alt="flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_static/flask-logo.svg" alt="flask" width="40" height="40"/>
   </a>
   
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
