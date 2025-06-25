@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">I'm a Computer Science undergrad at UC Irvine, passionate about full stack development.\</h3>
+<h3 align="center">I'm a Computer Science undergrad at UC Irvine, passionate about full stack development.</h3>
 
 - 📫 How to reach me **abhinav.uppala@gmail.com**
 
