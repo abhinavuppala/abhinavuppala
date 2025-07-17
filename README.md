@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abhinav</h1>
+<h1 align="center">Hey, I'm Abhinav,</h1>
 <h3 align="center">a Computer Science undergrad at UC Irvine, passionate about full stack development and AI/ML.</h3>
 
 - 📫 Contact me thru **abhinav.uppala@gmail.com**
