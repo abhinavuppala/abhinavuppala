@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">I'm a Computer Science undergrad at UC Irvine, passionate about AI/ML and full stack development.</h3>
+<h1 align="center">Hey, I'm Abhinav</h1>
+<h3 align="center">a Computer Science undergrad at UC Irvine, passionate about full stack development and AI/ML.</h3>
 
-- 📫 How to reach me **abhinav.uppala@gmail.com**
+- 📫 Contact me thru **abhinav.uppala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
