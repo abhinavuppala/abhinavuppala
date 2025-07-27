@@ -2,6 +2,7 @@
 <h3 align="center">a Computer Science undergrad at UC Irvine, passionate about full stack development and AI/ML.</h3>
 
 - 📫 Contact me thru **abhinav.uppala@gmail.com**
+- 📝 My Resume (PDF): [Resume as of 7-11-25](resume/Abhinav_Uppala_Resume_7_11_25.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
